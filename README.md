@@ -1,12 +1,10 @@
 # 🌿 ClimateSense
 
-AI-Powered Microclimate Risk Prediction System for Rural Farmers
-
----
+# 🌍 Environment and Sustainability in the AI Era
 
 ## 📌 Problem Statement
-Farmers lack accurate village-level climate prediction systems. 
-Generic weather apps fail to provide hyperlocal risk alerts.
+**Gramin-Mind: Hyper Local Intelligence for Climate Resilience**  
+Small villages often lack access to accurate micro-level climate data, making it difficult to anticipate rainfall, floods, or droughts. Gramin-Mind provides hyperlocal climate intelligence to help communities respond.
 
 ---
 
@@ -59,5 +57,7 @@ ClimateSense predicts and analyzes climate patterns using machine learning.
 1. Install requirements
 2. Run app.py
 
-## 👩‍💻 Team
-Hackathon Team
+## 👩‍💻 Team – Signal Sentries
+1. Nitya Priya L  
+2. Sushma P  
+3. Jananie Pritha J
