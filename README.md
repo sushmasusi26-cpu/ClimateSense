@@ -36,5 +36,7 @@ Sensors → ESP32 → AI Model → GSM/WiFi → Farmer Alerts
 - GSM Module
 
 ---
+## 🏗 System Architecture
 
+![ClimateSense Architecture](file_00000000a58471f882a118f73de3c0f6.png)
 ## 📂 Project Structure
