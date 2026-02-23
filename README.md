@@ -40,3 +40,24 @@ Sensors → ESP32 → AI Model → GSM/WiFi → Farmer Alerts
 
 ![ClimateSense Architecture](file_00000000a58471f882a118f73de3c0f6.png)
 ## 📂 Project Structure
+# 🌍 ClimateSense
+
+## 📌 Problem Statement
+Climate changes are difficult to monitor and predict accurately.
+
+## 💡 Solution
+ClimateSense predicts and analyzes climate patterns using machine learning.
+
+## ⚙️ Tech Stack
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Machine Learning
+
+## 🚀 How to Run
+1. Install requirements
+2. Run app.py
+
+## 👩‍💻 Team
+Hackathon Team
